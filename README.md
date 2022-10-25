@@ -6,6 +6,9 @@ This CLI tool is made to preprocess the dataset to save your time
     - Show Data
     - Describing Data
     - Handling Missing Values
+        - Mean
+        - Median
+        - Mode
     - Encoding Categorical Data
     - Feature Scaling
     - Deleting Columns
