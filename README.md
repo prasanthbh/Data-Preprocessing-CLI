@@ -10,7 +10,14 @@ This CLI tool is made to preprocess the dataset to save your time
         - Median
         - Mode
     - Encoding Categorical Data
+        - Label Encoding
+        - One hot Encoding
     - Feature Scaling
+        - Standard Scaler
+        - MinMax Scaler
+        - Robust Scaler
+        - MaxAbs Scaler
+        - Normalizer
     - Deleting Columns
     - Renaming Columns
 - We can also **DOWNLOAD**:arrow_down: the modified dataset.
