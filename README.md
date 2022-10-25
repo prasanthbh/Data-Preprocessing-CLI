@@ -19,4 +19,4 @@ This CLI tool is made to preprocess the dataset to save your time
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py`
 
-#### If you have any questions, just let me know [here.](mailto:prasanthbheemarasetty@gmail.com)
+#### If you have any questions, just let me know [here.](mailto:pb.apps.official@gmail.com)
